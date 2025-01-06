@@ -33,7 +33,6 @@ void screen()
 	glColor3f(1.0,0.0,0.0);
 	drawstring(120,375,0.0,"By: ANIMATORS");
 	drawstring(50,350,0.0,"Name:FIONA CRASTA     USN:4MN18CS010");
-	drawstring(50,325,0.0,"Name:JAYANTH H D       USN:4MN18CS019");
 	glColor3f(1.0,1.0,1.0);
 	drawstring(120,260,0.0,"Under The Guidance of:");
 	drawstring(155,230,0.0,"Prof:");
